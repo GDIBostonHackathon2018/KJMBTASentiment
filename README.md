@@ -1,2 +1,2 @@
-# KJMBTASentiment
-MBTA Status &amp; Sentiment
+# KJHackathon
+GDI Boston 2018 Hackathon Project
